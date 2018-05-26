@@ -1,0 +1,5 @@
+BROKER_URL=amqp://***:***@donkey.rmq.cloudamqp.com/***
+CELERY_APP_PATH=worker.celery_app
+CELERY_LOG_LEVEL=info
+CELERY_QUEUE=test_queue
+CELERY_PROCESSES=1

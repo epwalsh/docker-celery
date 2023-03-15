@@ -29,7 +29,7 @@ Now, if you haven't already, clone this repository and pull the Docker image:
 
 ```
 git clone https://github.com/epwalsh/docker-celery && cd docker-celery
-docker pull epwalsh/celery
+docker pull epwalsh/docker-celery
 ```
 
 Next, `cd` into the `example/` directory and create the environment file `access.txt`
